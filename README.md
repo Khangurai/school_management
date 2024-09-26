@@ -1,2 +1,2 @@
-# school_management
-School Management System
+# school_management_system
+School Management System with odoo 17
